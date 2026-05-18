@@ -1,5 +1,10 @@
 # Demo-MATLAB-Agentic-AI
 
+**Ascendas Systems, Subsidiary of TechSource Systems Group**
+*Sole Distributor of MATLAB and Xilinx Authorized Training Provider*
+
+---
+
 A demonstration repository for the **MATLAB Agentic Toolkit** — connecting Claude Code (AI coding agent) to MATLAB through the Model Context Protocol (MCP).
 
 ## What Is This?

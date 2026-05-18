@@ -46,4 +46,5 @@ See the full setup guide: [TEAM_SETUP_GUIDE.md](./TEAM_SETUP_GUIDE.md)
 
 ---
 
-*MATLAB and Simulink are registered trademarks of The MathWorks, Inc.*
+*Ascendas Systems, Subsidiary of TechSource Systems Group*
+*– Sole Distributor of MATLAB and Xilinx Authorized Training Provider*
